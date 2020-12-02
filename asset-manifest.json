@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GreenG/static/css/main.253fb6b2.chunk.css",
+    "main.js": "/GreenG/static/js/main.cb22ba48.chunk.js",
+    "main.js.map": "/GreenG/static/js/main.cb22ba48.chunk.js.map",
+    "runtime-main.js": "/GreenG/static/js/runtime-main.1b600b02.js",
+    "runtime-main.js.map": "/GreenG/static/js/runtime-main.1b600b02.js.map",
+    "static/js/2.e78548f0.chunk.js": "/GreenG/static/js/2.e78548f0.chunk.js",
+    "static/js/2.e78548f0.chunk.js.map": "/GreenG/static/js/2.e78548f0.chunk.js.map",
+    "index.html": "/GreenG/index.html",
+    "precache-manifest.b17ac071cf5ddd39fb4a68ae80d7e642.js": "/GreenG/precache-manifest.b17ac071cf5ddd39fb4a68ae80d7e642.js",
+    "service-worker.js": "/GreenG/service-worker.js",
+    "static/css/main.253fb6b2.chunk.css.map": "/GreenG/static/css/main.253fb6b2.chunk.css.map",
+    "static/js/2.e78548f0.chunk.js.LICENSE.txt": "/GreenG/static/js/2.e78548f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b600b02.js",
+    "static/js/2.e78548f0.chunk.js",
+    "static/css/main.253fb6b2.chunk.css",
+    "static/js/main.cb22ba48.chunk.js"
+  ]
+}
